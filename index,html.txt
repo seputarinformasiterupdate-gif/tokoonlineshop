@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>AlexaShop</title>
+</head>
+<body>
+    <h1>Selamat Datang di AlexaShop</h1>
+    <p>Website ini sudah berhasil tayang melalui GitHub Pages.</p>
+</body>
+</html>
